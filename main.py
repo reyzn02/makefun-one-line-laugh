@@ -9,8 +9,8 @@ standard library, makes no network calls, and always writes the same bytes.
 import os
 
 LINE = (
-    "My smartwatch praised my 10,000 steps today, then noted 9,800 of "
-    "them were just me pacing to the fridge and back."
+    "My smartwatch congratulated me on 10,000 steps today, then "
+    "quietly added that 9,800 of them were pacing to the fridge."
 )
 
 
